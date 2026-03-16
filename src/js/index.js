@@ -1,4 +1,4 @@
-const chaveDaApi = "b0d8605bffef4750aca234126232511";
+const chaveDaApi = import.meta.env.WEATHER_KEY;
 
 const botaoDeBusca = document.querySelector(".btn-busca");
 
